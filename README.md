@@ -1,6 +1,8 @@
 # Supply-Chain-Day-2-stellar
 # 🚀 Supply Chain Tracker (Stellar Soroban)
-Contract Link:-https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CCNVR62ROF3MFU4MYZWGIEPRVLBGWQVVVFYNPW44TVVHXA4AYNJP7ARG;;
+Contract Link:-https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CCNVR62ROF3MFU4MYZWGIEPRVLBGWQVVVFYNPW44TVVHXA4AYNJP7ARG;
+
+
 A blockchain-based supply chain management system built using Stellar Soroban smart contracts.  
 This dApp allows users to register products, track shipments, and verify authenticity securely on-chain.
 <img width="1883" height="987" alt="image" src="https://github.com/user-attachments/assets/755bc187-526f-491e-b9b9-81491bbe728a" />
